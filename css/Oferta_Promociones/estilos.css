@@ -1,0 +1,13 @@
+
+.masculino img:hover{
+	border: 3px solid gray;
+}
+.femenina img:hover{
+	border: 3px solid aqua;
+}
+.accesorios img:hover{
+	border: 3px solid red;
+}
+.boton :hover{
+	border: 3px solid chocolate;
+}
